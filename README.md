@@ -2,6 +2,7 @@
 
 ## CSCE 685 - Spring '25:
 # 234009303 - Vishnuvasan Raghuraman
+# Advisor - Prof. Dr. Duncan Walker
 # Fault Diagnosis in Digital Circuits Inspired by Biological Networks
 
 ## Overview
