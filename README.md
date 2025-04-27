@@ -1,6 +1,7 @@
 # Leveraging Biological Network Models to Enhance Fault Diagnosis in Integrated Circuits
+# 234009303 - Vishnuvasan Raghuraman
 
-## CSCE 685: Project Description
+## CSCE 685 - Spring '25: Project Description
 This project explores fault diagnosis in digital circuits inspired by Gene Regulatory Networks (GRNs) using simulation, Bayesian inference, and sensitivity analysis.
 
 ## Repository Structure
