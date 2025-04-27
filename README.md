@@ -1,6 +1,6 @@
 # Leveraging Biological Network Models to Enhance Fault Diagnosis in Integrated Circuits
 
-## CSCE 685 - Spring '25:
+# CSCE 685 - Spring '25:
 # 234009303 - Vishnuvasan Raghuraman
 # Advisor - Prof. Dr. Duncan Walker
 # Fault Diagnosis in Digital Circuits Inspired by Biological Networks
