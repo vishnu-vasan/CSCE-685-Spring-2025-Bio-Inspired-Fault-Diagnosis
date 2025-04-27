@@ -1,19 +1,36 @@
 # Leveraging Biological Network Models to Enhance Fault Diagnosis in Integrated Circuits
+
+## CSCE 685 - Spring '25:
 # 234009303 - Vishnuvasan Raghuraman
+# Fault Diagnosis in Digital Circuits Inspired by Biological Networks
 
-## CSCE 685 - Spring '25: Project Description
-This project explores fault diagnosis in digital circuits inspired by Gene Regulatory Networks (GRNs) using simulation, Bayesian inference, and sensitivity analysis.
+## Overview
+This project implements a simple yet powerful approach to fault modeling, Bayesian fault diagnosis, and sensitivity analysis in digital circuits, inspired by concepts from Gene Regulatory Networks (GRNs).
 
-## Repository Structure
-- fault_modeling.py
-- bayesian_diagnosis.py
-- sensitivity_analysis.py
-- main.ipynb (full demo)
+stuck-at faults in logic circuits are modeled, and fault probabilities inferred from observed outputs using Bayesian updating, and sensitivity analysis performed to quantify the criticality of different gates.
+
+## Project Structure
+- `/scripts/` : Core Python scripts for fault modeling, diagnosis, and sensitivity analysis.
+- `/notebooks/` : Main demonstration notebook (`main.ipynb`) showing the full workflow.
+- `/figures/` : Generated diagrams, sensitivity plots, and other visualizations.
 
 ## How to Run
-1. Install required packages:
+1. Install required libraries:
+   ```bash
    pip install matplotlib networkx
-2. Open main.ipynb and run all cells.
+   ```
+2. Open and run `notebooks/main.ipynb` to see the full demonstration.
+3. (Optional) You can run individual scripts directly:
+   ```bash
+   python scripts/fault_modeling.py
+   python scripts/bayesian_diagnosis.py
+   python scripts/sensitivity_analysis.py
+   ```
 
-## Author
-Vishnuvasan Raghuraman
+## Dependencies
+- Python 3.x
+- matplotlib
+- networkx
+
+## Acknowledgements
+Inspired by biological fault analysis principles commonly used in Gene Regulatory Networks (GRNs).
