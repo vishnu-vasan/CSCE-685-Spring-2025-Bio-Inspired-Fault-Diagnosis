@@ -7,12 +7,12 @@
 ## Overview
 This project implements a simple yet powerful approach to fault modeling, Bayesian fault diagnosis, and sensitivity analysis in digital circuits, inspired by concepts from Gene Regulatory Networks (GRNs).
 
-stuck-at faults in logic circuits are modeled, and fault probabilities inferred from observed outputs using Bayesian updating, and sensitivity analysis performed to quantify the criticality of different gates.
+`stuck-at` faults in logic circuits are modeled, and fault probabilities inferred from observed outputs using Bayesian updating, and sensitivity analysis performed to quantify the criticality of different gates.
 
 ## Project Structure
-- `/scripts/` : Core Python scripts for fault modeling, diagnosis, and sensitivity analysis.
-- `/notebooks/` : Main demonstration notebook (`main.ipynb`) showing the full workflow.
-- `/figures/` : Generated diagrams, sensitivity plots, and other visualizations.
+- `scripts/` : Core Python scripts for fault modeling, diagnosis, and sensitivity analysis.
+- `notebooks/` : Main demonstration notebook (`main.ipynb`) showing the full workflow.
+- `figures/` : Generated diagrams, sensitivity plots, and other visualizations.
 
 ## How to Run
 1. Install required libraries:
