@@ -1,3 +1,4 @@
+# === fault_modeling.py ===
 import networkx as nx
 import matplotlib.pyplot as plt
 from itertools import product
